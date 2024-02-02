@@ -23,7 +23,7 @@ A collection of documentation, articles, videos, and tutorials about Hotwire.
 
 - [hotwire.io](https://hotwire.io/): Links & resources on the Hotwire ecosystem.
 
-## Tutorials
+## Articles
 
 - [Turbo Rails Tutorial](https://www.hotrails.dev/turbo-rails) by Alexandre Ruban
 - [Turbo Frame Search Filters](https://code.avi.nyc/turbo-frame-search-filters) by Avi Flombaum
@@ -36,7 +36,18 @@ A collection of documentation, articles, videos, and tutorials about Hotwire.
 - [thoughtbot hotwire templates](https://github.com/thoughtbot/hotwire-example-template/tree/main) by thoughtbot
 - [Building Basecamp project stacks with Hotwire](https://dev.37signals.com/building-basecamp-project-stacks-with-hotwire/) by Nicklas Ramhöj Holtryd
 
+## Video tutorials
+
+- [GoRails](https://gorails.com) by Chris Oliver
+- [Drifting Ruby](https://www.driftingruby.com) by Dave Kimura
+
 ## Talks
+
+- [Making a difference with Turbo](https://www.youtube.com/watch?v=m97UsXa6HFg) by Jorge Manrubia (Rails World 2023)
+- [The future of Rails as a full-stack framework](https://www.youtube.com/watch?v=iRjei4nj41o) by Marco Roth (Rails World 2023)
+- [Hotwire Cookbook, common uses, essential patterns, & best practices](https://www.youtube.com/watch?v=F75k4Oc6g9Q) by Yaroslav Shmarov (Rails World 2023)
+- [Hotwiring my React Brain](https://www.youtube.com/watch?v=PvAf3vZp1b8) by Aji Slater (RailsConf 2023)
+- [Exploring the power of Turbo Streams & ActionCable](https://www.youtube.com/watch?v=S--B3BGIk3M) by Kevin Liebholz (RailsConf 2023)
 
 ## Turbo 8 specific
 
